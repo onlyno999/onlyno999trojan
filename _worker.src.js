@@ -9,7 +9,7 @@ let socks5Address = '';
 
 let addresses = [
 	//当sub为空时启用本地优选域名/优选IP，若不带端口号 TLS默认端口为443，#号后为备注别名
-	'cf.090227.xyz:443#onlyno999',
+	'cf.090227.xyz:443#非常感谢',
 	'time.is#OTC提供接口',];
 
 let sub = ''; 
