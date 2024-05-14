@@ -9,8 +9,8 @@ let socks5Address = '';
 
 let addresses = [
 	//当sub为空时启用本地优选域名/优选IP，若不带端口号 TLS默认端口为443，#号后为备注别名
-	'cf.090227.xyz:443#非常感谢',
-	'time.is#OTC提供接口',];
+	'cf.090227.xyz:443#非常感谢大佬',
+	'time.is#OTC提供优选接口',];
 
 let sub = ''; 
 let subconverter = 'url.v1.mk';// clash订阅转换后端，目前使用肥羊的订阅转换功能。自带虚假节点信息防泄露
